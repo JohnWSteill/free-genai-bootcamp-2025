@@ -8,4 +8,4 @@ Assuming open source LLMs that we choose will be powerful enough to run on our b
 
 ## Data stratagey
 
-Concern of copyrighted materials, perhaps we dont hook up to internet. 
+Concern of copyrighted materials, perhaps we dont hook up to internet.
